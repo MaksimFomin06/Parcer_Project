@@ -1,0 +1,25 @@
+{
+    "url": "https://github.com/MaksimFomin06/Calculator_SOLID",
+    "selectors": {
+        "title": ".pizda",
+        " c": "cv",
+        "d": "df"
+    },
+    "requirements": [
+        {
+            "field": "dfsgd",
+            "operator": "eq",
+            "value": "fsg"
+        },
+        {
+            "field": "gds",
+            "operator": "gt",
+            "value": "dfg"
+        },
+        {
+            "field": "dgf",
+            "operator": "lt",
+            "value": "dsgfdfssdfg"
+        }
+    ]
+}
